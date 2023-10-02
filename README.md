@@ -1,1 +1,1 @@
-This Project is made over pydroid 3 , android version ( Smartphone) So it can be run over the same software.This Shows basic airthmetic function using loop concept
+This Project is made over pydroid 3 , android version ( Smartphone) So it can be run over the same  software.This.  Shows basic   airthmetic function using loop concept. Make a clone or copy paste code on pydroid 3 ide's to see how it works.
